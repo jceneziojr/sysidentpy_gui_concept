@@ -8,6 +8,3 @@ with col1:
 
 with col2:
     st.file_uploader("Dados Validação", key='val_data')
-
-
-
